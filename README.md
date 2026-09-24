@@ -43,21 +43,6 @@ https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoCol
 https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
 
-🤖 Inteligencia Artificial
-https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white
-https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white
-https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white
-
-Integración de APIs de IA (OpenAI, Gemini, etc.) en aplicaciones web y móviles
-
-Desarrollo de agentes inteligentes para automatización de tareas
-
-Implementación de chatbots y asistentes virtuales
-
-Uso de LLMs (Modelos de Lenguaje Grande) en flujos de trabajo reales
-
 🧰 Herramientas
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
