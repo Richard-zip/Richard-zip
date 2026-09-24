@@ -64,6 +64,6 @@
 ## 📫 ¡Conectemos!
 
 - ✉️ Correo: richardantonioassistrujillo.@gmail.com  
-- 📞 Teléfono 1: +57 3172719261  
-- 📞 Teléfono 2: +57 311 3636577  
-- 💼 [LinkedIn](http://www.linkedin.com/in/richard-assis)  
+- 📞 Teléfono : +57 3172719261  
+- 💼 [LinkedIn](http://www.linkedin.com/in/richard-assis)
+- 💼 Portafolio : https://portafolio-seven-beige-89.vercel.app/
