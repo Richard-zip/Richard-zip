@@ -1,6 +1,10 @@
+¡Claro! Aquí tienes el contenido actualizado con las nuevas habilidades sobre **agentes de IA** e **integración de IA en aplicaciones**. He añadido una sección específica y también lo incluí en "Sobre mí" para que se vea desde el principio.
+
+---
+
 # 👋 ¡Hola! Soy Richard Assis
 
-🎯 Soy un **Desarrollador de Software** enfocado en el diseño y desarrollo de apps aplicando buenas pràcticas de diseño. 
+🎯 Soy un **Desarrollador de Software** enfocado en el diseño y desarrollo de apps aplicando buenas prácticas de diseño.  
 
 ---
 
@@ -11,6 +15,7 @@
 - 🔄 Manejo de **bases de datos relacionales y no relacionales**
 - 🐳 Manejo de contenedores con **Docker** y despliegue de aplicaciones en **Render** y **AWS**
 - 🧩 Conocimientos en **arquitectura de software** y **patrones de diseño** aplicados al desarrollo de aplicaciones
+- 🤖 **Uso de agentes de IA** e **integración de IA** en aplicaciones (LLMs, APIs de IA, asistentes inteligentes, automatización)
 
 ---
 
@@ -44,6 +49,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### 🤖 Inteligencia Artificial
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+- Integración de **APIs de IA** (OpenAI, Gemini, etc.) en aplicaciones web y móviles
+- Desarrollo de **agentes inteligentes** para automatización de tareas
+- Implementación de **chatbots** y asistentes virtuales
+- Uso de **LLMs** (Modelos de Lenguaje Grande) en flujos de trabajo reales
 
 ### 🧰 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -64,7 +80,7 @@
 ## 📫 ¡Conectemos!
 
 - ✉️ Correo: richardantonioassistrujillo.@gmail.com  
-- 📞 Teléfono : +57 3172719261  
+- 📞 Teléfono: +57 3172719261  
 - 💼 [LinkedIn](http://www.linkedin.com/in/richard-assis)
 - 💼 [Portafolio](https://portafolio-seven-beige-89.vercel.app/)
-  
+
