@@ -66,4 +66,5 @@
 - ✉️ Correo: richardantonioassistrujillo.@gmail.com  
 - 📞 Teléfono : +57 3172719261  
 - 💼 [LinkedIn](http://www.linkedin.com/in/richard-assis)
-- 💼 Portafolio : https://portafolio-seven-beige-89.vercel.app/
+- 💼 [Portafolio](https://portafolio-seven-beige-89.vercel.app/)
+  
